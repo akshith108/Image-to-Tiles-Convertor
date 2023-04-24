@@ -1,3 +1,3 @@
 # image-to-tiles-convertor
 If you want to use it, download the imagetotiles.exe file and run it, and tell it by how many rows and columns you want to divide the image, and tell it where to open and save the image. It will save the image with name tile_{i}{j} where i and j are numbers, in the directory where you told to save. That's it so simple to use.
-If the imagetotiles.exe file is not compatible, download the another file imagetotiles-win10.exe if even this doesn't support to your system, you will have to run the imagetotiles.py file which requires python in your device. If you want .exe, you can try converting .py file to .exe.
+If the imagetotiles.exe file is not compatible, download the another file imagetotiles_win10_64x.exe if even this doesn't support to your system, you will have to run the imagetotiles.py file which requires python in your device. If you want .exe, you can try converting .py file to .exe.
